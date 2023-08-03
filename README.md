@@ -1,9 +1,17 @@
-### Hi there 👋
+<h3 align="center">
+  Hello there, You can call me Fernando.
+</h3>
 
-<!--
-**fdtschmitz/fdtschmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J5aGh2d3E5b2RtOGRsdmtibmlhZ3UxYmo3M2JoMmg1MTAya242ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HN6GLlUsMvue652b2w/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/fernandodtschmitz9a9b0168/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=fdtschmitz&style=flat-square&color=blue" alt=""/>
+</div>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
