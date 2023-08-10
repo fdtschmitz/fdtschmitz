@@ -17,3 +17,9 @@ I'm Fernando, a purchaser with a twist. My educational background in administrat
 💡 I'm fluent in Python, C/C++, PowerBi DAX, SQL, and feel right at home in the Linux environment. My interests span IoT, embedded systems, and cybersecurity.
 
 🔒 With a keen eye on the future, I'm all about fusing technology with innovation. Join me on this exciting journey of exploration and creation! 🚀🌟
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,arduino,c,cpp,java,git,linux,bash,powershell,aws,gcp,docker,mysql,postgres&perline=7" />
+  </a>
+</p>
