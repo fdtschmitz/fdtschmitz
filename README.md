@@ -20,6 +20,6 @@ I'm Fernando, a purchaser with a twist. My educational background in administrat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,arduino,c,cpp,java,git,linux,bash,powershell,aws,gcp,docker,mysql,postgres&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,js,arduino,c,mysql,git,linux,bash,powershell,aws,gcp,docker&perline=6" />
   </a>
 </p>
