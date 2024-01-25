@@ -14,7 +14,7 @@
 
 I'm Fernando, a purchaser with a twist. My educational background in administration and electronics, combined with my ongoing studies in computer engineering, defines my diverse skill set.
 
-💡 I'm fluent in Python, C/C++, PowerBi DAX, SQL, and feel right at home in the Linux environment. My interests span IoT, embedded systems, and cybersecurity.
+💡 I'm fluent in Python, JavaScript, C/C++, PowerBi DAX, SQL, and feel right at home in the Linux environment. My interests span Data Analysis, IoT, embedded systems, and cybersecurity.
 
 🔒 With a keen eye on the future, I'm all about fusing technology with innovation. Join me on this exciting journey of exploration and creation! 🚀🌟
 
