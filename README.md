@@ -5,6 +5,7 @@ I'm a Python developer specializing in backend development and data engineering.
 
 I crave fusing tech with innovation. This GitHub profile is my exploration & creation journey as I become a Python developer.
 
+<div>
 <p style="text-align: center;">
   <a href="/source/projects/projects.md">Articles and Projects</a>  
 </p>
@@ -18,6 +19,7 @@ I crave fusing tech with innovation. This GitHub profile is my exploration & cre
     <img src="https://skillicons.dev/icons?i=py,js,django,fastapi,flask,linux,bash,selenium,postman,docker,mongo,postgres,mysql,aws,azure,gcp&perline=8" />
   </a>
 </p>
+</div>
 
 <div>
   <p align="center">Let's get connected:</p>
