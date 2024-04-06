@@ -5,6 +5,14 @@ I'm a Python developer specializing in backend development and data engineering.
 
 I crave fusing tech with innovation. This GitHub profile is my exploration & creation journey as I become a Python developer.
 
+<p style="text-align: center;">
+  <a href="/source/projects/projects.md">Articles and Projects</a>  
+</p>
+
+<p style="text-align: center;">
+  <a href="/source/resume/en.resume.md">Resume</a> | <a href="/source/resume/pt.resume.md">Currículo</a>  
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,django,fastapi,flask,linux,bash,selenium,postman,docker,mongo,postgres,mysql,aws,azure,gcp&perline=8" />
@@ -15,7 +23,7 @@ I crave fusing tech with innovation. This GitHub profile is my exploration & cre
   <p align="center">Let's get connected:</p>
   <p align="center">
     <a href="https://www.linkedin.com/in/fernandoschmitz/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt='linkedin' height='40' />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt='linkedin' height='40' />
     <a href="https://dev.to/fdtschmitz">
       <img src='https://skillicons.dev/icons?i=devto' alt='dev' height='40' />
     <a href="https://medium.com/@fdtschmitz.dev">
