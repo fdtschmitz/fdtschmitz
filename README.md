@@ -1,25 +1,29 @@
-<h3 align="center">
-  Hi there!👋
-</h3>
+![Python Dev](/source/github-header-image.png)
+### Hi there 👋,
 
-<div id="header" align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J5aGh2d3E5b2RtOGRsdmtibmlhZ3UxYmo3M2JoMmg1MTAya242ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HN6GLlUsMvue652b2w/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/fernandoschmitz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=fdtschmitz&style=flat-square&color=blue" alt=""/>
-</div>
+I'm a Python developer specializing in backend development and data engineering. My admin/electronics background and current computer engineering studies fuel my diverse skillset.
 
-I'm Fernando, a purchaser with a twist. My educational background in administration and electronics, combined with my ongoing studies in computer engineering, defines my diverse skill set.
-
-💡 I'm fluent in Python, JavaScript, C/C++, PowerBi DAX, SQL, and feel right at home in the Linux environment. My interests span Data Analysis, IoT, embedded systems, and cybersecurity.
-
-🔒 With a keen eye on the future, I'm all about fusing technology with innovation. Join me on this exciting journey of exploration and creation! 🚀🌟
+I crave fusing tech with innovation. This GitHub profile is my exploration & creation journey as I become a Python developer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,arduino,c,mysql,git,linux,bash,powershell,aws,gcp,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,js,django,fastapi,flask,linux,bash,selenium,postman,docker,mongo,postgres,mysql,aws,azure,gcp&perline=8" />
   </a>
 </p>
+
+<div>
+  <p align="center">Let's get connected:</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/fernandoschmitz/">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt='linkedin' height='40' />
+    <a href="https://dev.to/fdtschmitz">
+      <img src='https://skillicons.dev/icons?i=devto' alt='dev' height='40' />
+    <a href="https://medium.com/@fdtschmitz.dev">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' />
+  </p>
+</div> 
+
+
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=fdtschmitz&style=flat-square&color=blue" alt=""/>
+</div>
