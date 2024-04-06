@@ -3,22 +3,22 @@
 
 I'm a Python developer specializing in backend development and data engineering. My admin/electronics background and current computer engineering studies fuel my diverse skillset.
 
-I crave fusing tech with innovation. This GitHub profile is my exploration & creation journey as I become a Python developer.
+I crave fusing tech with innovation. This GitHub profile is my exploration & creation journey as I become a better developer.
 
 <div>
-<p style="text-align: center;">
-  <a href="/source/projects/projects.md">Articles and Projects</a>  
-</p>
+  <p style="text-align: center;">
+    <a href="/source/projects/projects.md">Articles and Projects</a>  
+  </p>
 
-<p style="text-align: center;">
-  <a href="/source/resume/en.resume.md">Resume</a> | <a href="/source/resume/pt.resume.md">Currículo</a>  
-</p>
+  <p style="text-align: center;">
+    <a href="/source/resume/en.resume.md">Resume</a> | <a href="/source/resume/pt.resume.md">Currículo</a>  
+  </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,django,fastapi,flask,linux,bash,selenium,postman,docker,mongo,postgres,mysql,aws,azure,gcp&perline=8" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,js,django,fastapi,flask,linux,bash,selenium,postman,docker,mongo,postgres,mysql,aws,azure,gcp&perline=8" />
+    </a>
+  </p>
 </div>
 
 <div>
